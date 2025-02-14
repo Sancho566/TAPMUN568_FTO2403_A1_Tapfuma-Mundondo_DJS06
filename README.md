@@ -1,5 +1,3 @@
-[Loom Video:https://www.loom.com/share/a7003c636d0a4151b4acf48800ff6563?sid=a45d5588-8b19-4ced-8c7b-7e29394c831b]
-
 ### DJS06 Project Brief: Higher Order Functions
 
 #### Objective
